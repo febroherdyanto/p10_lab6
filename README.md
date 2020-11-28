@@ -225,6 +225,12 @@ while True:
 Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya.<br>
 Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :<br>
 ![Tampilan Awal](pict/pr-1-tampilan-awal.PNG)<br>
+Terdapat 5 Pilihan menu, yaitu :<br>
+1. Tambah Data<br>
+2. Lihat Data<br>
+3. Ubah Data<br>
+4. Hapus Data<br>
+5. Keluar<br>
 
 * **Fitur Tambah Data Nilai Mahasiswa**<br>
 Pada f
