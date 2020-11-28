@@ -233,4 +233,42 @@ Terdapat 5 Pilihan menu, yaitu :<br>
 5. Keluar<br>
 
 * **Fitur Tambah Data Nilai Mahasiswa**<br>
-Pada f
+System akan menjalankan fitur ini ketika user mengetikkan perintah **1** pada pilihan **Pilih Menu (1/2/3/4/5)**<br>
+Inilah tampilan fitur Tambah Data <br>
+![Tambah Data](pict/pr-2-tambah.PNG)<br>
+User akan diminta untuk memasukkan data : Nama, NIM, Nilai Tugas, Nilai UTS, dan Nilai UAS<br>
+System akan menampilkan menu<br>
+
+* **Fitur Lihat Data Nilai Mahasiswa**<br>
+System akan menjalankan fitur ini ketika user mengetikkan perintah **2** pada pilihan **Pilih Menu (1/2/3/4/5)**<br>
+Inilah tampilan fitur Lihat Data <br>
+![Lihat Data](pict/pr-3-lihat.PNG)<br>
+System akan menampilkan data sesuai apa yang dimasukkan user di fitur Tambah Data. Ada kolom Nilai Akhir pada fitur ini, Kolom tersebut akan terisi otomatis oleh system dengan rumus/ketentuan *30% dari Nilai Tugas, 35% dari Nilai UTS, 35% dari Nilai UAS*<br>
+
+* **FItur Ubah Data Nilai Mahasiswa**<br>
+System akan menjalankan fitur ini ketika user mengetikkan perintah **3** pada pilihan **Pilih Menu (1/2/3/4/5)**<br>
+Inilah tampilan fitur Ubah Data <br>
+![Pilihan Ubah Data](pict/pr-4-ubah-pilih.PNG)<br>
+Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah<br>
+Setelah user memilih data, *Misalnya user ingin merubah NIM dari mahasiswa dengan nama febro* , Maka akan muncul tampilan seperti ini :<br>
+![Ubah Data NIM](pict/pr-4-contoh-ubah-nim.PNG)<br>
+Diatas adalah hasil dari data yang dirubah.<br>
+
+* **Fitur Hapus Data Nilai Mahasiswa**<br>
+System akan menjalankan fitur ini ketika user mengetikkan perintah **4** pada pilihan **Pilih Menu (1/2/3/4/5)**<br>
+Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama Rega<br>
+![Tambah Data Rega](pict/pr-5-tambah-rega.PNG)<br>
+Setelah data Rega tersimpan, saya akan menjalankan fitur Hapus Data, seperti inilah tampilannya :<br>
+![Hapus Data Rega](pict/pr-6-hapus-rega.PNG)<br>
+Pada fitur ini, user akan diminta untuk memasukkan data siapa yang akan dihapus, setelah penghapusan selesai, system akan menampilkan pesan bahwa data sudah berhasil dihapus<br>
+
+* **Fitur Keluar dari Aplikasi**<br>
+System akan menjalankan fitur ini ketika user mengetikkan perintah **5** pada pilihan **Pilih Menu (1/2/3/4/5)**<br>
+Fitur ini sangat singkat, yaitu akan menutup system dan keluar dari aplikasi yang telah dijalankan<br>
+Seperti ini tampilan dari fitur keluar<br>
+![Keluar dari Aplikasi](pict/pr-7-keluar.PNG)<br>
+<hr>
+
+### Itulah tugas yang telah saya buat untuk memenuhi nilai Pertemuan 10 - Bahasa Pemrograman - Teknik Informatika - TI.20.B.1 - Universitas Pelita Bangsa
+
+### Terima Kasih dan Sampai Jumpa di Tugas-Tugas Lainnya (Febro Herdyanto - 312010043)
